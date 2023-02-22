@@ -1,1 +1,7 @@
-
+.maincontainer{
+	display:flex;
+}
+.item{
+	display:flex;
+	
+}
